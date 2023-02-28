@@ -1,0 +1,16 @@
+body{
+    background-color: azure;
+}
+h2{color: cornflowerblue;text-align: center;}
+h1{color: cornflowerblue;text-align: center;}
+p{color: cornflowerblue;text-align: center;}
+div{font: small-caps;text-align: center;}
+a{text-decoration: none;}
+.Epsilon{
+    text-align: center;
+    text-shadow: 0dvw;
+}
+h3{color: cornflowerblue;}
+#projects{font-style: italic; color: cadetblue;}
+a{text-decoration-color: rgb(220, 237, 245);}
+
